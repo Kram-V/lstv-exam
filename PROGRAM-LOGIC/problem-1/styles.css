@@ -1,0 +1,15 @@
+.table,
+td,
+th {
+  border: 1px solid black;
+  min-width: 90%;
+  margin: 0 auto;
+}
+
+.trntot-text {
+  text-align: right;
+}
+
+.employee-header {
+  text-align: center;
+}
